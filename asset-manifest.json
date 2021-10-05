@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Scaledrone-react-aplikacija/static/css/main.5a40664d.chunk.css",
+    "main.js": "/Scaledrone-react-aplikacija/static/js/main.86b199fe.chunk.js",
+    "main.js.map": "/Scaledrone-react-aplikacija/static/js/main.86b199fe.chunk.js.map",
+    "runtime-main.js": "/Scaledrone-react-aplikacija/static/js/runtime-main.0d4d22d9.js",
+    "runtime-main.js.map": "/Scaledrone-react-aplikacija/static/js/runtime-main.0d4d22d9.js.map",
+    "static/js/2.68d96c17.chunk.js": "/Scaledrone-react-aplikacija/static/js/2.68d96c17.chunk.js",
+    "static/js/2.68d96c17.chunk.js.map": "/Scaledrone-react-aplikacija/static/js/2.68d96c17.chunk.js.map",
+    "static/js/3.cad73b58.chunk.js": "/Scaledrone-react-aplikacija/static/js/3.cad73b58.chunk.js",
+    "static/js/3.cad73b58.chunk.js.map": "/Scaledrone-react-aplikacija/static/js/3.cad73b58.chunk.js.map",
+    "index.html": "/Scaledrone-react-aplikacija/index.html",
+    "static/css/main.5a40664d.chunk.css.map": "/Scaledrone-react-aplikacija/static/css/main.5a40664d.chunk.css.map",
+    "static/js/2.68d96c17.chunk.js.LICENSE.txt": "/Scaledrone-react-aplikacija/static/js/2.68d96c17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d4d22d9.js",
+    "static/js/2.68d96c17.chunk.js",
+    "static/css/main.5a40664d.chunk.css",
+    "static/js/main.86b199fe.chunk.js"
+  ]
+}
